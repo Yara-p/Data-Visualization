@@ -28,5 +28,5 @@ The automation scripts streamline data preparation, making it more efficient to 
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Yara-p/Data-Visualization/US_Labor_Force_Suicide_Tableau_Dashboard.git
+   git clone https://github.com/Yara-p/Data-Visualization.git
 
