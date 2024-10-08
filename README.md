@@ -11,7 +11,7 @@ In addition to using Tableau for visualization, I utilized Python to automate th
 
 The automation scripts streamline data preparation, making it more efficient to handle large datasets and maintain consistency across files.
 
-## What Users Can Do With The Tableau Dashboard:
+## What Users Can Do With The Dashboard:
 
 1. **Geographical Disparity Analysis**:
    - **Explore Suicide Rates by State**: Compare suicide rates across all US states and adjust the threshold to visualize the severity of suicide disparities across the country.
