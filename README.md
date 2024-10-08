@@ -1,4 +1,4 @@
-# US Labor Force Suicide Data Visualization Project
+# US Labor Force Suicide Tableau Dashboard
 
 ## Overview and Analysis Components
 This project offers an interactive data visualization of **Labor Force Suicide in the United States**, focusing on individuals aged 15-65. The dataset, sourced from the [CDC](https://www.cdc.gov/suicide/facts/data.html), allows users to explore both geographical and demographic disparities in suicide rates. The dashboard is hosted on [Yara's Tableau Public](https://public.tableau.com/views/USSuicideVisualizationWorkbook/GeographicalAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link), and the complete version is available in this GitHub repository.
